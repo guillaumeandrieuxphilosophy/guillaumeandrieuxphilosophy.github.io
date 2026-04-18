@@ -2,4 +2,5 @@
 title: "CV"
 ---
 
-You can download a recent copy of my CV here
+You can download a recent copy of my CV 
+[here](Guillaume_Andrieux_CV_Apr26.pdf)
